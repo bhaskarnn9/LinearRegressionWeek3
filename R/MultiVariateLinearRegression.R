@@ -1,5 +1,5 @@
 # Title: Predicting price sof Homes in Boston
-# Author: "bneella@google.com"
+# Author: "bneella@ltu.edu"
 # Date: "13th Jan 2020"
 
 rm(list = ls(all=T))
